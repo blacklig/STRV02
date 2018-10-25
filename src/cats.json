@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "name": "Minda",
+    "breed": "Domaci smeska",
+    "birthYear": 2004
+  },
+  {
+    "id":2,
+    "name": "Mr. Arthur",
+    "breed": "Britska modrosrsta",
+    "birthYear": 2013
+  },
+  {
+    "id":3,
+    "name": "Zrzka",
+    "breed": "Perska",
+    "birthYear": 2007
+  },
+  {
+    "id":4,
+    "name": "Minda",
+    "breed": "Poulicni smes",
+    "birthYear": 2011
+  }
+]
